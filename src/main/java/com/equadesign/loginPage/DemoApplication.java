@@ -1,4 +1,4 @@
-package com.sandbox.demo;
+package com.equadesign.loginPage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
