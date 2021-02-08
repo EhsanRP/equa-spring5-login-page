@@ -1,4 +1,4 @@
-package com.equadesign.loginPage.security;
+package com.equadesign.loginPage.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
